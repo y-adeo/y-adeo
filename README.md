@@ -12,8 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-adeo&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-adeo&layout=compact&theme=dracula)](https://github.com/y-adeo/github-readme-stats)
 | ------------- | ------------- |
-
-<div style="display: inline_block"><br>
   
 ## 
         
@@ -33,8 +31,7 @@
 ##
 
 <div> 
-  <a href = "mailto:yasmin.adeo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasmin-ad%C3%A9o-b433655b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yasmin-ad%C3%A9o-b433655b" target="_blank"><img alt="Yas-MySQL" height="40" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/y-adeo/y-adeo/blob/output/github-contribution-grid-snake.svg)
