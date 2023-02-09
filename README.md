@@ -5,6 +5,7 @@
 
 - 💼 Atualmente trabalho com Business Intelligence e Desenvolvimento Web 
 - 🌱 Estudando Python com foco no backend 
+- 🏡 Curitiba/PR 
 - 😄 Ela/dela        
 
 ##
