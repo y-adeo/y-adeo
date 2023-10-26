@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou a Yasmin! 👩🏽‍💻 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=800&color=FF3A71&random=false&width=500&lines=Dev+FulStak+em+forma%C3%A7%C3%A3o;com+uma+quedinha+pela+Ci%C3%AAncia+de+Dados)](https://git.io/typing-svg) 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=800&color=FF5EB0F0&random=false&width=500&lines=-------+Dev+FulStak+em+forma%C3%A7%C3%A3o+-------;com+uma+quedinha+pela+Ci%C3%AAncia+de+Dados" />
+</p>
 
 - 💼 Atualmente trabalho com Gestão de Projetos, Business Intelligence e Desenvolvimento 
 - 🌱 Estudando Python com foco no backend 
