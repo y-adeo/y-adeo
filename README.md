@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou a Yasmin! 👩🏽‍💻 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=800&color=FF5EB0F0&random=false&width=500&lines=-------+Dev+FulStak+em+forma%C3%A7%C3%A3o+-------;com+uma+quedinha+pela+Ci%C3%AAncia+de+Dados" />
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76AB9&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Cientista+de+Dados+em+forma%C3%A7%C3%A3o!+" alt="Typing SVG" /></a>
 </p>
 
 - 💼 Gestão de Projetos, Business Intelligence e Análise de Dados
