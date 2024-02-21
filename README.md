@@ -4,7 +4,7 @@
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&size=21&pause=1000&color=F76AB9&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%8E%AF+Cientista+de+Dados+em+forma%C3%A7%C3%A3o!+"alt="Typing SVG" /></a>
 </p>
 
-- 💼 Gestão de Projetos | Business Intelligence | Análise de Dados
+- 💼 Business Intelligence | Análise de Dados
 - 🌱 Estudando Ciência de Dados 
 - 🏡 Curitiba/PR 
 - 😄 Ela/dela        
